@@ -13,6 +13,9 @@ Add your `GEMINI_API_KEY` and 'model' into the `.env` file.
 
 ## Running the Project
 
+```bash
 uv run kickoff
+```
+
 
 Let's create wonders together with the power and simplicity of crewAI.
